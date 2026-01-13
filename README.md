@@ -9,7 +9,6 @@ The project focused on forecasting Emergency Room (ER) patient volumes and analy
 ## My Role
 - Data Engineer & Machine Learning Contributor
 - Preprocessed and analyzed ~94,000 patient records
-- Engineered temporal features such as day of week, seasonality, and rolling averages
 - Trained and evaluated machine learning models, including XGBoost
 - Contributed to model evaluation, documentation, and presentation of results
 
